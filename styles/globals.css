@@ -1,0 +1,165 @@
+.home_margin{
+    margin-left: 20px;
+
+}
+.navbar {
+    background:transparent;
+    background-color: #E8E7F0;
+}
+
+.text_margin{
+    margin-bottom: 250px;
+}
+
+.login_buttom{
+
+    margin-bottom: 20%;
+    margin-left: 5px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.title{
+    margin-bottom: 30px;
+    margin-top: 200px;
+    font-size: 48px;
+    height: 600px;
+    font-weight: bolder
+}
+
+.title-body{
+    font-size: 28px;
+    font-weight:500
+}
+
+
+.signin{
+    background-color: #f2f2f4;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.footer{
+    background-color: #E8E7F0;
+}
+
+.signin-text{
+    margin-right: 20px;
+}
+
+.about-body{
+    height:100vh;
+    background-color: #f2f2f4;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.about{
+    text-align: center;
+}
+
+.about-title{
+    font-size: 48px;
+    font-weight: bolder
+}
+
+.about-content{
+    font-size: 20px;
+    font-weight:500
+}
+
+.editor-button{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.input-box{
+    position: inherit;
+    right:10px;
+    top: 65px;
+    width: 100%;
+    height:300px;
+    margin-top: 10px;
+
+}
+
+.output-box{
+    position: inherit;
+    right:10px;
+    top: 400px;
+
+    width: 100%;
+    height:300px
+
+}
+
+.dropbtn {
+    color: white;
+    padding: 7px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  /* The container <div> - needed to position the dropup content */
+  .dropup {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropup content (Hidden by Default) */
+  .dropup-content {
+    display: none;
+    position: absolute;
+    bottom: 30px;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropup */
+  .dropup-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropup links on hover */
+  .dropup-content a:hover {background-color: #ddd}
+  
+  /* Show the dropup menu on hover */
+  .dropup:hover .dropup-content {
+    display: block;
+  }
+  
+
+  .cpp-button{
+    margin-left: 20px;
+    margin-top: 4px;
+  }
+
+  .lang-button{
+    width: 80px;
+  }
+  
+.index{
+    height:100vh;
+    background-color: #f2f2f4;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
