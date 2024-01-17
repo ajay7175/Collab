@@ -55,7 +55,7 @@ To run the Collab CodeShare website locally, follow these steps:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/Rohit10701/CollbC.git
+https://github.com/ajay7175/Collab.git
 ```
 ## Navigate to the project directory:
 ```bash
