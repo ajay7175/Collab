@@ -1,7 +1,7 @@
 
 # Collab CodeShare Website
 This repository contains the source code for Collab, a CodeShare website developed using Next.js and Socket.io. Collab allows users to collaborate on coding projects in real-time, supporting both anonymous and login modes. In the anonymous mode, users can start coding without logging in and share their code through generated links. In the login mode, users can create an account, log in, and access their saved files.
-https://admirable-macaron-282c5d.netlify.app/
+https://lucky-chebakia-238096.netlify.app/
 
 ## Features
 
